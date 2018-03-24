@@ -13,5 +13,5 @@ Post-processing map matching script developed with ArcPy
 
 1. A single CSV file titled SampleRoute.csv containing 431 records representing travel from Parkplaza Dr. to Rockway Ct
 2. A selected portion of CanMap’s Content Suite representing a network dataset for the City of Hamilton.
-3. A file called MapMatch.py containing the script.
+3. A file called **MapMatch.py** containing the script.
 4. An ArcGIS Toolbox which implements the script. 
