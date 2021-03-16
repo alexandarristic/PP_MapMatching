@@ -1,0 +1,1 @@
+The zipped folder here contains the documentation in HTML format.
